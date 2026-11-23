@@ -1,0 +1,4 @@
+# Pertahankan folder dist untuk go:embed
+!/frontend/dist/
+/frontend/dist/*
+!/frontend/dist/.gitkeep
